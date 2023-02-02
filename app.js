@@ -1,6 +1,5 @@
 let password = ''
 let symbols = '!@#$%^&*.()'
-let count = 97
 
 // A - B 65 - 90
 // a - b 97 - 122
